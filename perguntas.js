@@ -1,22 +1,36 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Quem',
+    'Quem é TXT?',
+    'É um grupo sul coreano composto por 5 integrantes'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Grupo',
+    'Qual seu local de origem?',
+    'Coreia do Sul'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Quando',
+    'Quando foi sua estreia?',
+    'Em 2019'
 )
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz OI em inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Criador',
+    'Qual a sua empresa?',
+    'Eles debutaram na big hit music, sendo o primeiro grupo lançado após o BTS'
 ) 
+
+
+criaCartao(
+    'Fama',
+    'Qual sua música mais famosa?',
+    'Sugar Rush Ride'
+)
+
+
+criaCartao(
+    'Membros',
+    'Quais são os seus membros?',
+    'Kai, Beomgyu, Taehyun, Yeonjun e Soobin'
+)
